@@ -1,4 +1,4 @@
-# d3.plugin.scatterplot
+# d3.plugin.scatterplot (Angular.js+D3.js)
 
 ##Demo
 https://lkanggithub.github.io/d3.plugin.scatterplot/d3.plugin.scatterplot/index.html
