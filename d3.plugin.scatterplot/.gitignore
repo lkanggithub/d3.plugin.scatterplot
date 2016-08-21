@@ -1,0 +1,6 @@
+*.project
+*.tern-project
+.settings
+*.scss
+*.sass
+*.map
